@@ -5,7 +5,8 @@ a **C**ommand **L**ine **A**rgument **P**arser functionality for c++ application
 CLAP was created as a project to provide means for a programmer to set parameters to modify the program's behavior, and to easily parse the arguments passed by the program's user. 
 
 ## setup
-Simply locate CLAP.h & CLAP.cpp in your project's directory. However: only include CLAP.h in your project (for VS user, only add CLAP.h in "project properties")
+Simply locate CLAP.h & CLAP.cpp in your project's directory.\
+However: only include CLAP.h in your project (for VS user, only add CLAP.h in "project properties")
 
 ## Documentation
 #### class Parser
